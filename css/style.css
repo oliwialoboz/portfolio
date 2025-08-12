@@ -154,8 +154,9 @@ nav {
   margin-right: 30px;
 }
 .dwaobrazki-container img {
-  width: 100%;
   border-radius: 40px;
+  max-height: 643;
+  max-width: 643;
 }
 .zdjecie {
   max-width: 360px;
@@ -210,11 +211,26 @@ nav {
   margin-right: 20px;
 }
 .aboutme {
-  gap: 50px;
   margin-top: 30px;
   margin-bottom: 30px;
-  align-items: center;
+  display: flex;
   justify-content: space-between;
+  align-items: center;
+}
+.omnie {
+  max-width: 40%;
+}
+.programy {
+  max-width: 70px;
+  max-height: 70px;
+}
+.nazwaprogramu {
+  display: flex;
+}
+.umiejetnosci {
+  display: flex;
+  gap: 30px;
+  align-items: center;
 }
 .foto {
   display: flex;
@@ -285,7 +301,11 @@ nav {
   border-radius: 100%;
   border: 5px solid #a100f2;
 }
-
+.skills {
+  color: #fff;
+  font-size: 32px;
+  font-family: "Pixelify Sans", sans-serif;
+}
 .zdjecieinfo {
   display: flex;
   gap: 150px;
