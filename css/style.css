@@ -12,8 +12,7 @@
 body {
   background-color: #0b0b0b;
   max-width: 1700px;
-  margin: 0 auto 20px;
-  margin-top: 30px;
+  margin: 40px;
   overflow-x: hidden;
   margin-bottom: 50px;
 }
@@ -29,7 +28,7 @@ nav {
 .nav-btn {
   color: #fff;
   font-size: 24px;
-  font-family: "Pixelify Sans", sans-serif;
+  font-family: 'Pixelify Sans', sans-serif;
   text-decoration: none;
 }
 .nav-btn:hover {
@@ -38,7 +37,7 @@ nav {
 }
 .subheader {
   color: #a100f2;
-  font-family: "Pixelify Sans";
+  font-family: 'Pixelify Sans';
   font-size: 40px;
   font-weight: 400;
 }
@@ -52,7 +51,7 @@ nav {
 }
 .header {
   color: #fff;
-  font-family: "Abril Fatface";
+  font-family: 'Abril Fatface';
   font-size: 128px;
   margin: 0;
 }
@@ -68,7 +67,7 @@ nav {
 .button {
   color: #fff;
   background-color: #0b0b0b;
-  font-family: "Pixelify Sans";
+  font-family: 'Pixelify Sans';
   font-size: 20px;
   border: 1px solid #fff;
   border-radius: 100px;
@@ -79,7 +78,7 @@ nav {
 
 .napis {
   color: #fff;
-  font-family: "Tiny5";
+  font-family: 'Tiny5';
   font-size: 64px;
   margin: 80px 0;
   white-space: nowrap;
@@ -131,7 +130,7 @@ nav {
 }
 .podzial {
   color: #a100f2;
-  font-family: "Pixelify Sans";
+  font-family: 'Pixelify Sans';
   font-size: 40px;
 }
 .uxobraz {
@@ -190,7 +189,7 @@ nav {
 .buttons-container button {
   padding: 5px 10px;
   text-wrap: nowrap;
-  font-family: "Pixelify Sans";
+  font-family: 'Pixelify Sans';
   font-size: 20px;
   border: none;
   border-radius: 15px;
@@ -304,7 +303,7 @@ nav {
 .skills {
   color: #fff;
   font-size: 32px;
-  font-family: "Pixelify Sans", sans-serif;
+  font-family: 'Pixelify Sans', sans-serif;
 }
 .zdjecieinfo {
   display: flex;
